@@ -17,4 +17,4 @@
         | <strCourse> |
       Examples:
         | StrUser             | strPassword   | strCourse              |
-        | mapoca12@hotmail.es | Choucair2021* | Talks with Jeremiah |
+        | mapoca12@hotmail.es | Bartholomeo24$ | Talks with Jeremiah |
